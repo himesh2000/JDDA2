@@ -1,0 +1,7 @@
+class git 
+{
+public static void main(String[]args)
+{
+system.out.println("say hello to operations");
+}
+}
